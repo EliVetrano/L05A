@@ -5,9 +5,6 @@
 * Date: 09/18/2026
 * */
 
-
-package L05A;
-
 public enum Setting { 
 	/** 
 	 * Declare the possible variables for Setting with different output values
