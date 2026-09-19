@@ -6,9 +6,6 @@
 * Date: 09/18/2026
 * */
 
-
-package L05A;
-
 public class Burner{
 	/** 
 	 * Declare varibles and enum class
